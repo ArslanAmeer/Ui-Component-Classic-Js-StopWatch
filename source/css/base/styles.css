@@ -26,7 +26,7 @@ button{
     width: 10%;
 }
 
-small{
-    margin: auto;
+.center{
     text-align: center;
+    margin: auto;
 }
