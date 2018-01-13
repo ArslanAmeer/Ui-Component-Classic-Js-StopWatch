@@ -10,12 +10,16 @@ document.addEventListener('DOMContentLoaded', function () {
 
     document.getElementById('start').addEventListener('click', function () {
         clearInterval(interval);
-        timer = 0;
-        interval = setInterval(timerValue, 1000)
+        interval = setInterval(timerValue, 1000);
     }, false);
 
     document.getElementById('stop').addEventListener('click', function () {
         clearInterval(interval);
+    }, false);
+
+    document.getElementById('reset').addEventListener('click', function () {
+        timer = 0;
+        timerValue();
     }, false);
 
 });
