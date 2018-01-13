@@ -25,3 +25,8 @@ button{
     padding: 5px;
     width: 10%;
 }
+
+small{
+    margin: auto;
+    text-align: center;
+}
