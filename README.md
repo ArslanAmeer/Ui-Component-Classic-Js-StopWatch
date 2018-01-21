@@ -1,4 +1,8 @@
-# Classic-Js-Timer
-## A Simple Basic Timer made with JS Html5 &amp; Css
+# Classic-Js-StopWatch
+## A Basic and Simple StopWatch made with JS HTML5 &amp; Css.
 
-Classic Timer with basic Start and Stop Button
+Classic StopWatch with basic Start, Stop and Reset Button.
+
+![](images/stopwatchdemo.png)
+
+
