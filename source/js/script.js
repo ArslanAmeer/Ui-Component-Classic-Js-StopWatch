@@ -2,7 +2,7 @@
 document.addEventListener('DOMContentLoaded', function () {
 
     var interval = null;
-    var timer = 0;
+    var timer = 1;
 
     function timerValue() {
         document.getElementById("timer").innerHTML = timer++;
