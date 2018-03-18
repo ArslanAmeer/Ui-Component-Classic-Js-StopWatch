@@ -5,6 +5,6 @@ Classic StopWatch with basic Start, Stop and Reset Button.
 
 ![](images/stopwatchdemo.PNG)
 ----------------------------------------------------------------
-**TRY IT NOW**: [Classic-Js-StopWatch](https://arslanameer.github.io/Classic-Js-StopWatch/)
+**TRY IT NOW**: [Classic-Js-StopWatch](https://arslanameer.github.io/Ui-Component-Classic-Js-StopWatch/)
 
 _(Arslan Ameer)_
